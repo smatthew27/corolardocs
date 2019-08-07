@@ -8,8 +8,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "homepage":"https://smatthew27.github.io/corolardocs",
+  "license": "ISC",  
   "dependencies": {
     "gh-pages": "^2.1.0"
   }
